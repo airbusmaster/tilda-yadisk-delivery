@@ -1,14 +1,14 @@
 {
-  "shop-guide-msk": {
-    "title": "Гид по ресторанам Москвы",
-    "file": "/Гид по Москве.pdf"
+  "demo-ebook": {
+    "title": "Электронная книга, PDF",
+    "file": "/Книга.pdf"
   },
-  "shop-guide-spb": {
-    "title": "Гид по ресторанам Санкт-Петербурга",
-    "file": "/Гид по Питеру.pdf"
+  "demo-course": {
+    "title": "Материалы курса",
+    "file": "/Курс материалы.pdf"
   },
-  "shop-course-basic": {
-    "title": "Базовый курс, материалы",
-    "file": "/Курс базовый.pdf"
+  "demo-bundle": {
+    "title": "Набор шаблонов",
+    "file": "/Шаблоны.zip"
   }
 }
