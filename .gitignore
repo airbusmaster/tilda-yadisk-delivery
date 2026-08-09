@@ -1,0 +1,12 @@
+# Секреты и боевые данные — никогда в репозиторий
+config.env
+catalog.json
+data.sqlite
+data.sqlite*
+*.bak-*
+backups/
+*.log
+
+__pycache__/
+*.pyc
+.DS_Store
